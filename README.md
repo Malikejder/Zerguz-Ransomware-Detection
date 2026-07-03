@@ -1,12 +1,12 @@
 # 🛡️ Zerguz Ransomware Detection
 
 ```{=html}
-<p align="center">
+
 ```
 Behavior-Based Ransomware Detection • Canary Token Strategy • Automatic
 Network Isolation • Cross Platform
 ```{=html}
-</p>
+
 ```
 
 ------------------------------------------------------------------------
@@ -188,7 +188,7 @@ Including:
 # 📦 Installation
 
 ``` bash
-git clone https://github.com/YourUsername/Zerguz-Ransomware-Detection.git
+https://github.com/Malikejder/Zerguz-Ransomware-Detection.git
 
 cd Zerguz-Ransomware-Detection
 
